@@ -1,0 +1,40 @@
+
+img {
+   width: 300px;
+   margin:auto;
+   display:block;   
+   margin-top: 200px;
+
+}
+
+input {
+	margin:auto;
+	display:block;
+	height: 25px;
+    margin-top: 15px;
+	width: 600px;
+	font-size:16px;
+
+}
+
+li {
+	display:inline;
+	font-family:verdana;
+	padding-right: 10px;
+    padding-left: 10px;
+    }
+
+ul {
+	text-align:right;
+}
+
+footer ul
+{
+	text-align:center;
+	margin-top: 200px;
+    padding-bottom: 40px;
+}
+
+footer {
+	display: block;
+}
